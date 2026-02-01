@@ -17,7 +17,7 @@ Ranging from coursework to research and passion projects, below are highlights f
 Project Summaries
 ------
 
-**BYU Lab Development** [Link to Website](labs.acme.byu.edu)
+**BYU Lab Development** [Website](https://labs.acme.byu.edu/Pages/intro.html)
 
 _BYU ACME Lab Development Team_
 
