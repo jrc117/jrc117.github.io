@@ -16,6 +16,7 @@ Ranging from coursework to research and passion projects, below are highlights f
 Project Summaries
 ------
 Coding projects of interest include:
+
 **Modeling Air-Borne Pollution** [PDF](files/SLC_Project.pdf)
 _Japheth Carlson, Nathan Longhurst, Rowan Williams_
 Collaborative project using PDEs to model airborne arsenic concentration in the Salt Lake Valley due to declining water levels.
@@ -27,6 +28,7 @@ Applying various machine learning methods to predict national life expectancy ba
 **Large-Scale Graph Layering** (COMING SOON)
 _Japheth Carlson, Wyatt Pochman_
 One component of a forthcoming research paper with additional collaborators aimed at understanding genealogical networks as mathematical objects.
+
 
 Papers
 ======
