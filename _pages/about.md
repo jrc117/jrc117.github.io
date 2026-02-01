@@ -16,7 +16,6 @@ Ranging from coursework to research and passion projects, below are highlights f
 
 Project Summaries
 ------
-Coding projects of interest include:
 
 **Modeling Air-Borne Pollution** [PDF](/files/SLC_Project.pdf)
 
@@ -44,6 +43,8 @@ Papers
 ======
 Below is a selection of papers I have worked on that are either submitted for publication or somewhere in the process toward publication.  Please feel free to contact me with any questions you may have!
 
+Paper Summaries
+------
 **Counting Zeros of Complex-Valued Harmonic Functions via Rouché's Theorem** [Pre-Print](https://arxiv.org/abs/2508.06721)
 
 _Japheth Carlson_
