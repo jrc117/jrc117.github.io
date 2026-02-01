@@ -17,6 +17,13 @@ Ranging from coursework to research and passion projects, below are highlights f
 Project Summaries
 ------
 
+**BYU Lab Development** [Link to Website](labs.acme.byu.edu)
+
+_BYU ACME Lab Development Team_
+
+I was an active contributor to BYU's ACME lab development team.  I personally edited each of our roughly 100 labs used by 2025-2026 ACME juniors and seniors, as well as helped update the files to ensure they migrated online (from PDFs) correctly.
+
+
 **Modeling Air-Borne Pollution** [PDF](/files/SLC_Project.pdf)
 
 _Japheth Carlson, Nathan Longhurst, Rowan Williams_
