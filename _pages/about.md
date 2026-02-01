@@ -42,23 +42,18 @@ One component of a forthcoming research paper with additional collaborators aime
 
 Papers
 ======
+Below is a selection of papers I have worked on that are either submitted for publication or somewhere in the process toward publication.  Please feel free to contact me with any questions you may have!
 
 **Counting Zeros of Complex-Valued Harmonic Functions via Rouché's Theorem** [Pre-Print](https://arxiv.org/abs/2508.06721)
-
 _Japheth Carlson_
-
 Building on previous work, I extend the harmonic analogue of Rouche's theorem to count the zeros of complex-valued harmonic polynomials with critical curves of varying geometries.  Submitted for publication to _Bulletin of the Malaysian Mathematical Sciences Society_.
 
 
 **Hallmarks of Genealogical Networks** _(COMING SOON)_
-
 _Japheth Carlson, Teayoun Kim, Matthew Lawyer, Wyatt Pochman, Emeline Thygerson, Benjamin Webb_
-
 Analyzing more than 100 genealogical networks, we discuss many of the fundamental mathematical and statistical properties of genealogical networks.  Paper in progress.
 
 
 **Honors Thesis**
-
 _Japheth Carlson_
-
 Forthcoming later in 2026.
