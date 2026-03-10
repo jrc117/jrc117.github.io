@@ -56,18 +56,18 @@ Paper Summaries
 
 _Japheth Carlson_
 
-Building on previous work, I extend the harmonic analogue of Rouche's theorem to count the zeros of complex-valued harmonic polynomials with critical curves of varying geometries.  Submitted for publication to _Bulletin of the Malaysian Mathematical Sciences Society_.
+Building on previous work, I extend the harmonic analogue of Rouche's theorem to count the zeros of complex-valued harmonic polynomials with critical curves of varying geometries.  Accepted for publication in _Bulletin of the Malaysian Mathematical Sciences Society_.
 
 
 **Hallmarks of Genealogical Networks** _(COMING SOON)_
 
 _Japheth Carlson, Teayoun Kim, Matthew Lawyer, Wyatt Pochman, Emeline Thygerson, Benjamin Webb_
 
-Analyzing more than 100 genealogical networks, we discuss many of the fundamental mathematical and statistical properties of genealogical networks.  Paper in progress.
+Analyzing more than 100 genealogical networks, our work is among the first to discuss many of the fundamental mathematical and statistical properties of genealogical networks.  Paper in progress.
 
 
 **Honors Thesis**
 
 _Japheth Carlson_
 
-Forthcoming later in 2026.
+In progress.  Forthcoming later in 2026.
