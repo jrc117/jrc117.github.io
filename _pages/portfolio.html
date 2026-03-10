@@ -9,6 +9,9 @@ author_profile: true
 
 
 {% for post in site.portfolio %}
+  {% unless post.display %}
+    {% continue %}
+  {% endunless %}
   {% include archive-single.html %}
 {% endfor %}
 
