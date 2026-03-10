@@ -21,7 +21,7 @@ Project Summaries
 
 _BYU ACME Lab Development Team_
 
-I was an active contributor to BYU's ACME lab development team.  I personally edited each of our roughly 100 labs used by 2025-2026 ACME juniors and seniors, as well as helped update the files to ensure they migrated online (from PDFs) correctly.
+As an active contributor to BYU's ACME lab development team, I personally edited each of our roughly 100 labs used by 2025-2026 ACME juniors and seniors and helped update the files to ensure they migrated online (from PDFs) correctly.  I also played a leading role in restructuring the math department's technical interview prep. course (MATH 495R).
 
 
 **Modeling Air-Borne Pollution** [PDF](/files/SLC_Project.pdf)
