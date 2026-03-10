@@ -12,5 +12,8 @@ author_profile: true
 {% endif %}
 
 {% for post in site.talks reversed %}
+  {% unless post.display %}
+    {% continue %}
+  {% endunless %}
   {% include archive-single-talk.html %}
 {% endfor %}
