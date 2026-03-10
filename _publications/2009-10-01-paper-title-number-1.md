@@ -9,7 +9,7 @@ date: 2026-03-09
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2508.06721'
 # bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Carlson, Japheth. (2026). "Counting Zeros of Complex-Valued Harmonic Functions via Rouché''s Theorem." <i>Bulletin of the Malaysian Mathematical Sciences Society</i>. Accepted for publication.''
+citation: 'Carlson, Japheth. (2026). "Counting Zeros of Complex-Valued Harmonic Functions via Rouché''s Theorem." <i>Bulletin of the Malaysian Mathematical Sciences Society</i>. Accepted for publication.'
 ---
 
 Building on previous work, I extend the harmonic analogue of Rouche's theorem to count the zeros of complex-valued harmonic polynomials with critical curves of varying geometries.  Accepted for publication in _Bulletin of the Malaysian Mathematical Sciences Society_.
