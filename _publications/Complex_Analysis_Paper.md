@@ -2,7 +2,8 @@
 title: "Counting Zeros of Complex-Valued Harmonic Functions via Rouché's Theorem"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+published: true
+permalink: /publication/rouche-harmonic-zeros
 excerpt: 'Paper accepted for publication providing a more generalized approach to counting zeros of complex harmonic functions by leveraging the harmonic analogue of Rouché''s theorem.'
 # date: 2026-03-09
 # venue: 'Bulletin of the Malaysian Mathematical Sciences Society'
