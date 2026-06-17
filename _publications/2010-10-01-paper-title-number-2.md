@@ -2,7 +2,7 @@
 title: "Structural and Temporal Hallmarks of Genealogical Networks"
 collection: publications
 category: manuscripts
-published: false
+published: true
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Aggregating more than 100 genealogical datasets, we analyze to find the structural and temporal hallmarks of recorded genealogical networks.'
 date: 2026-06-09
