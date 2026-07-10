@@ -9,7 +9,7 @@ date: 2026-06-09
 venue: 'Currently Under Review'
 slidesurl: 'https://docs.google.com/presentation/d/15qqGbm89TEUvrga021lXGx-nLgp_uIQqqjPbh_iGUOQ/edit?usp=sharing'
 paperurl: 'https://arxiv.org/abs/2606.18210'
-citation: 'Carlson, J., Kim, T., Lawyer, M., Pochman, W., Thygerson, E., & Webb, B. (2026). _Structural and temporal hallmarks of genealogical networks_ [Manuscript under review].
+citation: 'Carlson, J., Kim, T., Lawyer, M., Pochman, W., Thygerson, E., & Webb, B. (2026). <i>Structural and temporal hallmarks of genealogical networks</i> [Manuscript under review].
 '
 ---
 
