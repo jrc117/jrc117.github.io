@@ -59,7 +59,6 @@ Below is a selection of papers I have worked on that are either submitted for pu
 Paper Summaries
 ------
 **Counting Zeros of Complex-Valued Harmonic Functions via Rouché's Theorem** [Pre-Print](https://arxiv.org/abs/2508.06721)
-Published in _Bulletin of the Malysian Mathematics Society_
 
 _Japheth Carlson_
 
@@ -67,15 +66,13 @@ Building on previous work, I extend the harmonic analogue of Rouche's theorem to
 
 
 **Hallmarks of Genealogical Networks** [Pre-Print](https://arxiv.org/pdf/2606.18210)
-Submitted for Publication
 
 _Japheth Carlson, Teayoun Kim, Matthew Lawyer, Wyatt Pochman, Emeline Thygerson, Benjamin Webb_
 
-Analyzing more than 100 genealogical networks, our work is among the first to discuss many of the fundamental mathematical and statistical properties of genealogical networks.  Paper in progress.
+Analyzing more than 100 genealogical networks, our work is among the first to discuss many of the fundamental mathematical and statistical properties of genealogical networks.  Submitted for publication.
 
 
-**Honors Thesis** _(Coming by End of 2026)_
-Defense Planned for December 2026
+**Honors Thesis** _(Defense in Dec. 2026)_
 
 _Japheth Carlson_
 
