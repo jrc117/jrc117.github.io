@@ -23,12 +23,25 @@ _BYU ACME Lab Development Team_
 
 As an active contributor to BYU's ACME lab development team, I personally edited each of our roughly 100 labs used by 2025-2026 ACME juniors and seniors and helped update the files to ensure they migrated online (from PDFs) correctly.  I also played a leading role in restructuring the math department's technical interview prep. course (MATH 495R).
 
+**Study and Teaching Tools Website** [Website](gospel-navigator.streamlit.app)
 
-**Modeling Air-Borne Pollution** [PDF](/files/SLC_Project.pdf)
+_Japheth Carlson_
 
-_Japheth Carlson, Nathan Longhurst, Rowan Williams_
+Parsing through 10,000+ media resources ranging from the Bible to videos and discourses, I designed a suite of tools useful to enrich personal engagement for both personal and teaching purposes.  These tools include:  a search engine, customizable study path and "You May Also Like" recommender.
 
-Collaborative project using PDEs to model airborne arsenic concentration in the Salt Lake Valley due to declining water levels.
+
+**Large-Scale Graph Layering** [PDF](https://arxiv.org/pdf/2606.18210)
+
+_Japheth Carlson, Wyatt Pochman_
+
+One component of a research paper with additional collaborators aimed at understanding genealogical networks as mathematical objects.  One of the contributions Wyatt and I made was to development of the _Pseudogeneration Optimization Problem_ (see Subsection 4.1 of the linked PDF).
+
+
+**Modeling Climate Change Over Time** [PDF](/files/Climate_Change_Project.pdf)
+
+_Japheth Carlson, Andy Criddle, Nathan Longhurst, Ethan Palenske_
+
+Collaborative project using various models (such as ARIMA and the Kalman Filter) to predict global surface temperature at current trajectory, as well as at certain goals of carbon emission reduction over time.
 
 
 **Predicting National Life Expectancy** [PDF](/files/Life_Expectancy_Project.pdf)
@@ -36,13 +49,6 @@ Collaborative project using PDEs to model airborne arsenic concentration in the 
 _Japheth Carlson, Nathan Longhurst_
 
 Applying various machine learning methods to predict national life expectancy based on WHO data.
-
-
-**Large-Scale Graph Layering** (COMING SOON)
-
-_Japheth Carlson, Wyatt Pochman_
-
-One component of a forthcoming research paper with additional collaborators aimed at understanding genealogical networks as mathematical objects.
 
 
 
@@ -59,15 +65,15 @@ _Japheth Carlson_
 Building on previous work, I extend the harmonic analogue of Rouche's theorem to count the zeros of complex-valued harmonic polynomials with critical curves of varying geometries.  Accepted for publication in _Bulletin of the Malaysian Mathematical Sciences Society_.
 
 
-**Hallmarks of Genealogical Networks** _(COMING SOON)_
+**Hallmarks of Genealogical Networks** [Pre-Print](https://arxiv.org/pdf/2606.18210)
 
 _Japheth Carlson, Teayoun Kim, Matthew Lawyer, Wyatt Pochman, Emeline Thygerson, Benjamin Webb_
 
 Analyzing more than 100 genealogical networks, our work is among the first to discuss many of the fundamental mathematical and statistical properties of genealogical networks.  Paper in progress.
 
 
-**Honors Thesis**
+**Honors Thesis** _(Coming by End of 2026)_
 
 _Japheth Carlson_
 
-In progress.  Forthcoming later in 2026.
+In progress.  This thesis extends the results from _Hallmarks of Genealogical Networks_ by proposing models that describe the process of information loss in recorded genealogical networks.  This work is forthcoming by the end of 2026.
