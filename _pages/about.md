@@ -23,7 +23,7 @@ _BYU ACME Lab Development Team_
 
 As an active contributor to BYU's ACME lab development team, I personally edited each of our roughly 100 labs used by 2025-2026 ACME juniors and seniors and helped update the files to ensure they migrated online (from PDFs) correctly.  I also played a leading role in restructuring the math department's technical interview prep. course (MATH 495R).
 
-**Study and Teaching Tools Website** [Website](gospel-navigator.streamlit.app)
+**Study and Teaching Tools Website** [Link](gospel-navigator.streamlit.app)
 
 _Japheth Carlson_
 
