@@ -27,7 +27,7 @@ As an active contributor to BYU's ACME lab development team, I personally edited
 
 _Japheth Carlson_
 
-Parsing through 10,000+ media resources ranging from the Bible to videos and discourses, I designed a suite of tools useful to enrich personal engagement for both personal and teaching purposes.  These tools include:  a search engine, customizable study path and "You May Also Like" recommender.
+Parsing through roughly 10,000+ media resources ranging from the Bible to videos and modern discourses, I designed a suite of tools useful to enrich personal engagement for both personal and teaching purposes.  These tools include:  a search engine, customizable study path and "You May Also Like" recommender.
 
 
 **Large-Scale Graph Layering** [PDF](https://arxiv.org/pdf/2606.18210)
