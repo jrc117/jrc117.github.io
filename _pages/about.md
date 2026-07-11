@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello!  My name is Japheth Carlson and I'm passionate about sharing interesting and original results in mathematics, data science and machine learning!  I will update this page soon, but in the meantime, the sidebar links are active.  If you're interested in learning more about me and my work, please check everything out.
+Hello!  My name is Japheth Carlson and I'm passionate about sharing interesting and original results in mathematics, data science and machine learning!  I will continue updating this page, so check back again to hear about more of my adventures!  If you're interested in learning more about me or my work, please feel free to explore this site and reach out to me with any questions.
 
 Projects
 ======
